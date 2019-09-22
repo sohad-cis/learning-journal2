@@ -6,10 +6,15 @@ Welcome to meet you all
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sohad-cis/learning-journal2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*** Brains and Talent are just the starting point :) ***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+in my opinion, my mind is like a child he accept to learn any thing so i motivate it to become ready to achive the goal .There is no thing impossible .
+
+
+I can't >>> I try >>> It,s possible >>> I learn >>> I wii >>> I can >>> achive the goal
+
+I can,t Yet But i try and try and try
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
