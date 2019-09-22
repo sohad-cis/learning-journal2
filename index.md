@@ -1,3 +1,9 @@
+Hi all
+I,m Sohad Qtaitat
+Welcome to meet you all
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sohad-cis/learning-journal2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
