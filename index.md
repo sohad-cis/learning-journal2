@@ -4,7 +4,7 @@ Welcome to meet you all
 
 
 
-## Welcome to GitHub Pages
+## Welcome to Growth Mindset Pages
 
 *** Brains and Talent are just the starting point :) ***
 
